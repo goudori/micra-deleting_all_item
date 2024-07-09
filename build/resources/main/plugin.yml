@@ -1,0 +1,4 @@
+name: micra_five
+version: '1.0-SNAPSHOT'
+main: plugin.micra_five.Main
+api-version: '1.20'
